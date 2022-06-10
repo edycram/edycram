@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edycram
+- 👋 Hi, I’m @ Daniel Eze
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on Github
