@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ Daniel Eze
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+- 👋 Hi, I’m  @officialdaneze Daniel Eze
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently studying software engineering @alx_africa ALX Education
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: edycram4u@gmail.com
-
-<!---
-edycram/edycram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: edycram4u@gmail.com, @officialdaneze
