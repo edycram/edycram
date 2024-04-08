@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  @officialdaneze Daniel Eze
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently studying software engineering @alx_africa ALX Education
+- 🌱 Studied software engineering @alx_africa ALX Education
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: edycram4u@gmail.com, @officialdaneze
