@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 Studied software engineering @alx_africa ALX Education
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: edycram4u@gmail.com, @officialdaneze
+- 📫 How to reach me: c.danieleze@gmail.com, @officialdaneze
