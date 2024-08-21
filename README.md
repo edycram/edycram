@@ -164,3 +164,22 @@ As a motivated, determined, and result-oriented professional, I am actively seek
 - Market Research
 - Complaint Management
 - Project Scheduling
+
+## Contact Info
+
+- **Phone:** +2348064648663
+- **Email:** c.danieleze@gmail.com
+
+## LinkedIn
+
+- [King Daniels](https://www.linkedin.com/in/king-daniels-297a7b104)
+
+## GitHub
+
+- [Portfolio Repository](https://github.com/edycram/portfolio.git)
+
+## Portfolio Project Links
+
+- [Project 1: Portfolio Document](https://docs.google.com/document/d/1CgQq79n_B87Jj-PHvo-1WS_tEy5iH_9uLsspVSbTwFA/edit?usp=sharing)
+- [Project 2: Project File](https://drive.google.com/file/d/1hYMwrEs7Hp68kDpb4V_YUAJUgTTByQdS/view?usp=drivesdk)
+- [Project 3: Chatterbox GitHub Repository](https://github.com/edycram/Chatterbox.git)
