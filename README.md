@@ -59,7 +59,7 @@ As a motivated, determined, and result-oriented professional, I am actively seek
 ## Education
 
 ### Holberton School Tulsa, United States through African Leadership University, ALX Education  
-**Associate Degree, SOFTWARE ENGINEERING; FULLSTACK (Backend Development)**  
+**Software Engineering | Fullstack | Backend Development**  
 *Jun 2022 - Sep 2023*
 
 **Skills:**  
