@@ -170,13 +170,19 @@ As a motivated, determined, and result-oriented professional, I am actively seek
 - **Phone:** +2348064648663
 - **Email:** c.danieleze@gmail.com
 
+- ## Social Media
+
+- **X (Twitter):** [officialdaneze](https://x.com/officialdaneze)
+- **Instagram:** [edycram](https://www.instagram.com/edycram)
+- **Telegram:** [King Daniels](https://t.me/KingDaniels)
+
 ## LinkedIn
 
 - [King Daniels](https://www.linkedin.com/in/king-daniels-297a7b104)
 
 ## GitHub
 
-- [Portfolio Repository](https://github.com/edycram/portfolio.git)
+- [Portfolio Repository](https://github.com/edycram/edycram.git)
 
 ## Portfolio Project Links
 
