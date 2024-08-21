@@ -73,7 +73,7 @@ As a motivated, determined, and result-oriented professional, I am actively seek
 - Front-end React
 
 ### PLP Academy  
-**Software Engineering | Python | Web Technologies | Database Technology | Dart with Flutter**  
+**Software Engineering | Python | Web Technologies | Database Technology | Dart with Flutter | Entrepreneurship and Personal Development (Skills)**  
 *Apr 2024 - Oct 2024*
 
 **Skills:**  
