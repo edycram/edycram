@@ -4,6 +4,7 @@
 ## About
 
 **Results-Driven Software Engineer | Backend Development Specialist | AI & Digital Currency Enthusiast**
+
 As a versatile Software Engineer with a strong focus on Backend Development, I excel at designing and implementing robust, scalable solutions to tackle complex technical challenges. My expertise spans across AI, digital currency, and fullstack development, enabling me to deliver high-impact results in diverse technological landscapes.
 
 Beyond my technical acumen, I am deeply committed to inspiring and uplifting others. As a Bible Teacher, I share wisdom and guidance, helping individuals grow both personally and spiritually. My role as a Motivational Engineer underscores my belief in the power of positivity and teamwork, fostering a collaborative and supportive environment in every project I undertake. Additionally, as a Relationship Engineer, I emphasize effective communication and collaboration to achieve collective success.
@@ -18,6 +19,7 @@ I’m always eager to connect with like-minded professionals and explore opportu
 *Sep 2022 - Feb 2023*
 
 ## Technical Skills and Achievements
+
 - **Troubleshooting and Problem-Solving:** Successfully diagnosed and resolved hardware and software faults, leading to significant cost savings.
 - **Continuous Learning:** Maintained a high level of technical proficiency by staying updated on operating systems and application software.
 - **Efficient Issue Resolution:** Quickly addressed a wide range of Windows applications and networking issues.
@@ -35,6 +37,7 @@ I’m always eager to connect with like-minded professionals and explore opportu
 *Oct 2019 - Dec 2021*
 
 ## Business Operations and Development
+
 - **Financial Management:** Monitored accounts payable and receivable statuses to maintain accurate financial records.
 - **Marketing and Sales:** Utilized print strategies to attract new customers and adapted sales packages to meet client needs.
 - **Customer Retention:** Increased repeat business profits through customized sales strategies and staff incentives.
@@ -56,6 +59,7 @@ I’m always eager to connect with like-minded professionals and explore opportu
 *Jan 2010 - Oct 2014*
 
 ## Administrative and Organizational Skills
+
 - **Administrative Support:** Provided administrative support to both church staff and management, including tasks, event scheduling, and communication.
 - **File Management:** Established and maintained a confidential and organized file management system, resulting in positive reviews and bonuses.
 - **Data Management:** Developed an online data collection and tracking pipeline to support church growth.
