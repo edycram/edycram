@@ -2,7 +2,14 @@
 **Software Engineer (Fullstack) | Backend Development | AI Enthusiast | Bible Teacher | Motivational Engineer | Relationship Engineer | Digital Currency Enthusiast**
 
 ## About
-As a motivated, determined, and result-oriented professional, I am actively seeking career opportunities where I can leverage my strengths in leadership and communication to drive organizational success. My track record includes efficient teamwork and the ability to work independently. I thrive in managing multiple priorities with a positive attitude, and I’m always willing to take on additional responsibilities to help achieve team goals.
+
+**Results-Driven Software Engineer | Backend Development Specialist | AI & Digital Currency Enthusiast**
+As a versatile Software Engineer with a strong focus on Backend Development, I excel at designing and implementing robust, scalable solutions to tackle complex technical challenges. My expertise spans across AI, digital currency, and fullstack development, enabling me to deliver high-impact results in diverse technological landscapes.
+
+Beyond my technical acumen, I am deeply committed to inspiring and uplifting others. As a Bible Teacher, I share wisdom and guidance, helping individuals grow both personally and spiritually. My role as a Motivational Engineer underscores my belief in the power of positivity and teamwork, fostering a collaborative and supportive environment in every project I undertake. Additionally, as a Relationship Engineer, I emphasize effective communication and collaboration to achieve collective success.
+
+I’m always eager to connect with like-minded professionals and explore opportunities that align with my passion for innovation and growth. Let’s collaborate and create something extraordinary together!
+
 
 ## Experience
 
@@ -10,51 +17,52 @@ As a motivated, determined, and result-oriented professional, I am actively seek
 **Real XCLUSIVE PALACE**  
 *Sep 2022 - Feb 2023*
 
-- Troubleshot system and network problems, diagnosing and solving hardware and software faults that resulted in cost savings.
-- Maintained high level of support by consistently improving knowledge of operating systems and application software.
-- Diagnosed and quickly resolved a wide range of Windows applications and networking problems.
-- Monitored and performed hardware and software upgrades to network servers, including operating systems and applications.
-- Established and supported wireless LAN controllers and access points to provide wireless solutions with streamlined hardware.
-- Supported various operating systems and server technologies.
-- Administered, maintained, and supported network systems to provide consistent security, availability, and performance.
-- Configured routers, wireless controllers, access points communication hardware to deploy and manage LAN, WAN, and wireless networks.
-- Maximized network availability and performance by monitoring, troubleshooting, resolving outages, and scheduling upgrades.
-- Evaluated network performance to optimize traffic flow, maintain security, and improve processes.
-- Provided smooth communications by configuring LAN technology, wireless access points, and controllers.
-- Maintained documentation on configurations and maintenance in the form of reports, component labeling, and technical diagrams.
+## Technical Skills and Achievements
+- **Troubleshooting and Problem-Solving:** Successfully diagnosed and resolved hardware and software faults, leading to significant cost savings.
+- **Continuous Learning:** Maintained a high level of technical proficiency by staying updated on operating systems and application software.
+- **Efficient Issue Resolution:** Quickly addressed a wide range of Windows applications and networking issues.
+- **Infrastructure Upgrades:** Performed hardware and software upgrades on network servers, including operating systems and applications.
+- **Wireless Network Expertise:** Established and supported wireless LAN controllers and access points for optimized wireless solutions.
+- **Network Administration:** Administered, maintained, and secured network systems to ensure consistent availability and performance.
+- **Network Configuration:** Configured routers, wireless controllers, and access points for LAN, WAN, and wireless networks.
+- **Network Optimization:** Maximized network availability by monitoring, troubleshooting, resolving outages, and scheduling upgrades.
+- **Performance Analysis:** Evaluated network performance to optimize traffic flow and enhance security.
+- **Communication Infrastructure:** Ensured smooth communications by configuring LAN technology and wireless access points.
+- **Documentation:** Maintained detailed documentation through reports, component labeling, and technical diagrams.
 
 ### Business Owner
 **SV Gaming Ltd**  
 *Oct 2019 - Dec 2021*
 
-- Monitored accounts payable and receivable statuses, keeping financial records up-to-date.
-- Used print strategies such as newspaper ads, business catalogs, and marketing brochures to obtain and capture new customers.
-- Uplifted repeat business profits by adapting sales packages to bespoke client needs.
-- Increased customer sales conversions through strategic staff performance incentives.
-- Fulfilled activities to guarantee legal and regulatory compliance.
-- Optimized daily operations to achieve maximum efficiency and cost-effectiveness.
-- Established and maintained valuable industry networks and contacts.
-- Directed business growth through robust business planning.
-- Generated start-up capital and managed ongoing financial activities to fund business expansion.
-- Researched competitor activities and market trends, incorporating findings into business strategy.
-- Monitored competitor activity closely to remain ahead of market trends.
-- Actioned customer feedback to develop product and service offerings.
-- Analyzed customer data and market trends to enhance product offerings.
-- Achieved sales goals and increased revenue through strategy development.
-- Implemented new technologies to improve business productivity.
-- Put together realistic budgets based upon actual costs and fees for effective business operations.
+## Business Operations and Development
+- **Financial Management:** Monitored accounts payable and receivable statuses to maintain accurate financial records.
+- **Marketing and Sales:** Utilized print strategies to attract new customers and adapted sales packages to meet client needs.
+- **Customer Retention:** Increased repeat business profits through customized sales strategies and staff incentives.
+- **Compliance:** Ensured legal and regulatory compliance through diligent practices.
+- **Operational Efficiency:** Optimized daily operations for maximum efficiency and cost-effectiveness.
+- **Networking:** Established and maintained valuable industry networks and contacts.
+- **Business Growth:** Directed business growth through strategic planning.
+- **Financial Management:** Generated start-up capital and managed financial activities to support business expansion.
+- **Market Analysis:** Researched competitor activities and market trends to inform business strategy.
+- **Competitive Advantage:** Monitored competitor activity to stay ahead of market trends.
+- **Customer-Centric Approach:** Actioned customer feedback to improve product and service offerings.
+- **Data-Driven Decisions:** Analyzed customer data and market trends to enhance product offerings.
+- **Sales Achievement:** Achieved sales goals and increased revenue through effective strategy development.
+- **Technological Innovation:** Implemented new technologies to improve business productivity.
+- **Financial Planning:** Developed realistic budgets based on actual costs and fees for efficient business operations.
 
 ### Executive Assistant
 **Believers' Loveworld Inc.**  
 *Jan 2010 - Oct 2014*
 
-- Supported both the church staff and management in managing administrative tasks, events scheduling, and end-to-end communication.
-- Built and maintained a confidential and organized file management system that earned me several positive reviews and bonuses.
-- Developed an online data collection and tracking pipeline for the church which in turn helped us achieve church growth.
-- Managed the multimedia and ICT Units (specifically in the areas of data collation and database management).
-- Served as a Pastoral Fellowship Coordinator and Executive Assistant to the Pastor and CEO of Believers' Loveworld Inc.
-- Coordinated events and conferences, offering support with set-up and resources to guarantee smooth operations.
-- Collaborated with admin teams, human resources, and the finance department.
+## Administrative and Organizational Skills
+- **Administrative Support:** Provided administrative support to both church staff and management, including tasks, event scheduling, and communication.
+- **File Management:** Established and maintained a confidential and organized file management system, resulting in positive reviews and bonuses.
+- **Data Management:** Developed an online data collection and tracking pipeline to support church growth.
+- **Multimedia and ICT Management:** Managed multimedia and ICT units, specializing in data collation and database management.
+- **Leadership Roles:** Served as a Pastoral Fellowship Coordinator and Executive Assistant to the Pastor and CEO of Believers' Loveworld Inc.
+- **Event Coordination:** Coordinated events and conferences, providing support with set-up and resources for smooth operations.
+- **Interdepartmental Collaboration:** Collaborated with administrative teams, human resources, and the finance department.
 
 ## Education
 
