@@ -1,5 +1,5 @@
 # Daniel Eze
-**Software Engineer (Fullstack) | Backend Development | AI Enthusiast | Bible Teacher | Motivational Engineer | Relationship Engineer | Digital Currency Enthusiast**
+**Software Engineer (Fullstack) | Backend Development | AI Enthusiast | Bible Teacher | Motivational Engineer | Relationship Engineer | Digital Entrepreneur**
 
 ## About
 
